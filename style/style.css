@@ -1,4 +1,23 @@
-body{
+body
+{
+font-family: serif;
+width: 90%;
+margin: 0 auto;
+height: auto;  
+}
+blockquote{
+    margin: auto;
+    font-size: 25px;
 
+    margin-left: 34%;
+    margin-right: 34%;
+    margin-bottom: 80px;
+    margin-top: 80px;
+
+    padding-left: 30px;
+    padding-right: 30px;
     
+
+
+    background-color: orange;
 }

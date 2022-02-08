@@ -1,4 +1,50 @@
 body{
+    margin: 0 auto;
+    max-width: 90%;
+    background-image:url(https://cdn-media.planete-starwars.com/news/78588-babyyoda-169-lg.jpg?w=768) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+
 
     
+}
+blockquote{
+    font-size: 25.6px;
+
+    background-color: orange;
+
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 35%;
+    margin-right: 35%;
+    
+
+    
+}
+q{
+    font-style: italic;
+}
+.vilage{
+    color: blue;
+}
+.old{
+     color: blueviolet;
+}
+header h1{
+    background-color: yellow;
+}
+.green{
+    color: green;
+    text-transform: capitalize;
+}
+.red{
+    color: red;
+    text-transform: capitalize;
+}
+.go{
+    background-color: gray;
+}
+.on{
+    background-color:white;
 }

@@ -48,3 +48,21 @@ header h1{
 .on{
     background-color:white;
 }
+.pouce-up{
+    background-image:url(https://raw.githubusercontent.com/becodeorg/CRL-Keller-4/main/1.The-Field/04.HTML-CSS/assets/bien.png?token=GHSAT0AAAAAABRLMILMEDO3OU5ZHDAPQD2SYQLYY3Q);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 260px;
+}
+.pouce-down{
+    background-image:url(https://raw.githubusercontent.com/becodeorg/CRL-Keller-4/main/1.The-Field/04.HTML-CSS/assets/mal.png?token=GHSAT0AAAAAABRLMILNJP362P4NNCJI4S2SYQLZAPQ);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 260px ;
+}
+.cat{
+    background-image:url(https://raw.githubusercontent.com/becodeorg/CRL-Keller-4/main/1.The-Field/04.HTML-CSS/assets/chat.png?token=GHSAT0AAAAAABRLMILNLFEYDK26OGFUZLVUYQLZBAQ);
+    background-repeat: no-repeat ;
+    background-size: contain;
+    background-position: 260px;
+}
